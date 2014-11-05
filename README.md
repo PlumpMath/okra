@@ -1,10 +1,13 @@
 # Okra
 
-**status:** maintained
+**status:** stalled
 
-I'm not actively working on Okra but I'm using it in projects of my
-own and I'm also exploring using Ogre from ECL.
+I do not see myself working on this project anymore.  Game engines like
+Unity and Unreal Engine 4 have come so far these days that a more interesting
+approach would be to try and get Common Lisp support in there by using f.e.
+[SICL](https://github.com/robert-strandh/SICL).
 
+Also, check out [CLinch](https://github.com/BradWBeer/CLinch).
 
 ## CFFI bindings to Ogre
 
